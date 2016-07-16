@@ -1,0 +1,24 @@
+/*CSS*/
+
+ header {
+ 	text-align: center;
+ 	margin: 0 auto;
+ 	background-color: gray;
+ 	color: navy;
+ }
+
+ ul, ul li a {
+ 	list-style: none;
+ 	text-decoration: none;
+ }
+
+ header nav, header nav li a {
+ 	background-color: lightgray;
+ 	list-style: none;
+ 	text-decoration: none;
+ }
+
+h3 {
+	border-bottom: 2px steelblue solid;
+	width: 40%;
+}
